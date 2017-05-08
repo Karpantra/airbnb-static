@@ -55,12 +55,12 @@
   border-radius: 20em;
   line-height: 40px;
   background-color: $background-color;
-  color: white;
+  color: $white;
   font-size: 14px;
   border: 2px solid $background-color;
 }
 .navbar-wagon-button:hover {
-  color: white;
+  color: $white;
   background: $background-color;
   border-color: $red-border;
 }
